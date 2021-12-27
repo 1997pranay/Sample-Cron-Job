@@ -1,0 +1,26 @@
+{
+    "sec": {
+        "doc": "second (0-59)",
+        "default": "*"
+    },
+    "min": {
+        "doc": "minute (0-59), for recurrence use /",
+        "default": "/1"
+    },
+    "hour": {
+        "doc": "hour (0-23)",
+        "default": "*"
+    },
+    "dayOfMonth": {
+        "doc": "day of month (1-31)",
+        "default": "*"
+    },
+    "month": {
+        "doc": "month (1-12)",
+        "default": "*"
+    },
+    "dayOfWeek": {
+        "doc": "day of week (0-7)",
+        "default": "*"
+    }
+}
